@@ -1,0 +1,31 @@
+Sample Bakery Images
+===================
+
+This folder should contain the following sample images for testing the OCR functionality:
+
+1. bakery-table-1.jpg
+   - Content: A clean, well-formatted table of bakery items with columns for Item Name, Price, Category, and Availability
+   - Format: High-contrast black text on white background
+   - Resolution: 1200x800 pixels minimum
+
+2. bakery-table-2.jpg
+   - Content: A more complex table with product codes, descriptions, prices, and quantities
+   - Format: Printed receipt or order form style
+   - Resolution: 1200x1600 pixels
+
+3. bakery-menu.jpg
+   - Content: A bakery menu with sections for different product categories (breads, pastries, cakes)
+   - Format: Menu-style layout, possibly with decorative elements
+   - Resolution: 1500x2000 pixels
+
+4. bakery-inventory.jpg
+   - Content: A handwritten or slightly messy inventory sheet to test OCR capabilities
+   - Format: Less structured format, potentially with handwriting
+   - Resolution: 1200x1600 pixels
+
+5. bakery-price-list.jpg
+   - Content: A simple price list without rigid table structure
+   - Format: Two-column format with items and prices
+   - Resolution: 1000x1500 pixels
+
+These sample images will help test both the table extraction capabilities and the general text extraction functionality. When using these images with the application, be sure to try both the "Table Format" and "General Text" processing modes to see how the OCR system handles different types of documents. 

@@ -1,0 +1,10 @@
+This file serves as a placeholder for the cupcake-pattern.png image.
+
+For a complete implementation, you would need to add a cupcake pattern image here.
+The recommended image should be:
+- Size: 400x400 pixels (will be tiled)
+- Content: A repeating pattern of bakery items (cupcakes, pastries, etc.)
+- Style: Light, subtle design to use as a background
+- Format: PNG with transparency
+
+Recommended placement: frontend/src/assets/cupcake-pattern.png 

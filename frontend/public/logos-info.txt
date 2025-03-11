@@ -1,0 +1,27 @@
+The following logo files are needed for the application:
+
+1. favicon.ico
+   - Size: 32x32 pixels
+   - Format: ICO file
+   - Description: Small browser tab icon with a simple bakery icon
+
+2. logo192.png
+   - Size: 192x192 pixels
+   - Format: PNG with transparency
+   - Description: Medium-sized app icon used for various browser contexts and app shortcuts
+
+3. logo512.png
+   - Size: 512x512 pixels
+   - Format: PNG with transparency
+   - Description: Large app icon used for high-resolution displays and PWAs
+
+Design Guidelines:
+- Use the brown bakery theme color (#8d6e63)
+- Include a simple bakery element (cupcake, rolling pin, pastry, etc.)
+- Keep the design simple and recognizable at small sizes
+- Ensure the logo has proper padding
+
+Recommended placement:
+- frontend/public/favicon.ico
+- frontend/public/logo192.png
+- frontend/public/logo512.png 

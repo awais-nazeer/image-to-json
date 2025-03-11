@@ -1,0 +1,10 @@
+This file serves as a placeholder for the bakery-hero.jpg image.
+
+For a complete implementation, you would need to add a high-quality bakery-themed header image here.
+The recommended image should be:
+- Size: 1200x400 pixels
+- Content: Bakery items, pastries, or a bakery shop with tables/menus
+- Style: Slightly darkened to ensure text overlaid on it is readable
+- Format: JPG or WebP for better compression
+
+Recommended placement: frontend/src/assets/bakery-hero.jpg 
