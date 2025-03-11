@@ -129,4 +129,4 @@ To integrate this tool into your existing bakery website:
 
 ## License
 
-MIT License 
+2025 (zrrGUJJAR) License 
